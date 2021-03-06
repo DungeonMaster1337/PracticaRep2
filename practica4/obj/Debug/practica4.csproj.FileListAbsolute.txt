@@ -1,0 +1,10 @@
+E:\practica4\practica4\bin\Debug\practica4.exe.config
+E:\practica4\practica4\bin\Debug\practica4.exe
+E:\practica4\practica4\bin\Debug\practica4.pdb
+E:\practica4\practica4\obj\Debug\practica4.csprojAssemblyReference.cache
+E:\practica4\practica4\obj\Debug\practica4.Form1.resources
+E:\practica4\practica4\obj\Debug\practica4.Properties.Resources.resources
+E:\practica4\practica4\obj\Debug\practica4.csproj.GenerateResource.cache
+E:\practica4\practica4\obj\Debug\practica4.csproj.CoreCompileInputs.cache
+E:\practica4\practica4\obj\Debug\practica4.exe
+E:\practica4\practica4\obj\Debug\practica4.pdb
